@@ -1,0 +1,8 @@
+body {
+    background-image: url(795336.jpg);
+}
+
+@media screen and (max-width: 768px) {
+    body {
+    background: #333;}
+       }
