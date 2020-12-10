@@ -2,7 +2,7 @@ Week 2 Homework
 
 Installation: Copy And Paste https://pup-trainr.github.io/homework2/ into web browster
 
-Usage: ![screenshot]{assets/Images/screenshot.png}
+Usage: ![screenshot]{assets/Images/screenshot.jpg}
 
 Credits: NA
 
